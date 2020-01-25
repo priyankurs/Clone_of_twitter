@@ -1,5 +1,5 @@
 # Clone_of_twitter
-social_networking website like twitter.
+social networking website like twitter.
 
 
 <h2> This is basically a simple social-networking website project just like twitter</h2>
